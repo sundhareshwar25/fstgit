@@ -1,0 +1,8 @@
+create circle.txt file
+const PI = 3.14159 ;
+let circumference ;
+let radius ;
+radius = Number( radius );
+radius = window.prompt("Enter the Radius?");
+circumference = 2 * PI * radius ;
+console.log( circumference ) ;

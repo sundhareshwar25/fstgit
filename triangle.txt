@@ -1,1 +1,2 @@
 git stastus
+area of an triangle
